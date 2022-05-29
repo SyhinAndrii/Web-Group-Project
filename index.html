@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+
+  
+</head>
+
+<body>
+
+
+
+  <header>
+    <nav id="header-nav" class="navbar navbar-expand-md navbar-light pb-2">
+      <div class="container px-0">
+
+        <div class="navbar-brand d-flex">
+          <a class="d-none d-lg-block" href="index.html">
+
+            <div class="abc"></div>
+          </a>
+        </div>
+
+        <div class="navHeader align-self-center">
+          <a href="index.html">
+            <h1>Custom Company</h1>
+          </a>
+
+        </div>
+
+
+
+        <div id="alll" class="all">
+          <p>
+            Say hello to
+            <input id="name" type="text">
+            <button onclick="sayHello();">
+              Say it! </button>
+          </p>
+
+          <div id="content"></div>
+
+        </div>
+
+        <button class="navbar-toggler custom-toggler me-5 my-2" type="button" data-bs-toggle="collapse"
+          data-bs-target="#navbar-collapsion" aria-controls="navbar-collapsion" aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse pb-0" id="navbar-collapsion">
+          <ul class="navbar-nav mx-auto" id="nav-list">
+            <li class="nav-item mt-2">
+              <a class="nav-link d-lg-none d-md-none d-sm-block" aria-current="page" href="#go1">
+                Caption 1
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link d-lg-none d-md-none d-sm-block" href="#go2">
+                Caption 2
+              </a>
+            </li>
+            <li class="nav-item py-0">
+              <a class="nav-link d-lg-none d-md-none d-sm-block pb-0" href="#go3">
+                Caption 3
+              </a>
+            </li>
+            <!--The end of li -->
+          </ul>
+          <!--The end of ul -->
+        </div>
+        <!--The end of navbar-collapse -->
+      </div>
+      <!--The end of container -->
+    </nav>
+    <!--The end of nav -->
+  </header>
+ 
+
+
+
+
+  <div id="main-content" >
+  </div>
+
+  <footer>
+    <div class="footer">
+            <div class="container">
+               <div class="row">
+                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                     <img class="logo1" src="images/logo1.png" alt="#">
+                     <ul class="social_icon">
+                        <li><a href="#"><i class="fab fa-instagram" ></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                     </ul>
+                  </div>
+                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                     <h3>About Us</h3>
+                     <ul class="about_us">
+                        <li>dolor sit amet, consectetur<br> magna aliqua. Ut enim ad <br>minim veniam, <br> quisdotempor incididunt r</li>
+                     </ul>
+                  </div>
+                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                     <h3>Contact Us</h3>
+                     <ul class="conta">
+                        <li>dolor sit amet,<br> consectetur <br>magna aliqua.<br> quisdotempor <br>incididunt ut e </li>
+                     </ul>
+                  </div>
+                  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                  <p class="user"> Thanks for visiting</p>
+                  </div>
+               </div>
+            </div>
+            <div class="copyright">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-12">
+                        <p>© 2022 All Rights Reserved. Design by<a href="https://html.design/"> Free Html Templates</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+  <script>
+
+    function sayHello() {
+      var name = document.getElementById("name").value;
+      var message = "<h2>Hello" + " " + name + "!</h2>"
+
+
+      document
+        .getElementById("alll")
+        .innerHTML = message;
+    }
+  </script>
+
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/ajax_utils.js"></script>
+<script src="js/script.js"></script>
+
+
+</body>
+
+</html>
