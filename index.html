@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,34 +8,21 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
   <link rel="stylesheet" href="css/style.css">
-
-
-  
 </head>
-
 <body>
-
-
-
   <header>
     <nav id="header-nav" class="navbar navbar-expand-md navbar-light pb-2">
       <div class="container px-0">
-
         <div class="navbar-brand d-flex">
           <a class="d-none d-lg-block" href="index.html">
-
             <div class="abc"></div>
           </a>
         </div>
-
         <div class="navHeader align-self-center">
           <a href="index.html">
             <h1>Custom Company</h1>
           </a>
-
         </div>
-
-
 
         <div id="alll" class="all">
           <p>
@@ -45,9 +31,7 @@
             <button onclick="sayHello();">
               Say it! </button>
           </p>
-
           <div id="content"></div>
-
         </div>
 
         <button class="navbar-toggler custom-toggler me-5 my-2" type="button" data-bs-toggle="collapse"
@@ -83,13 +67,8 @@
     </nav>
     <!--The end of nav -->
   </header>
- 
 
-
-
-
-  <div id="main-content" >
-  </div>
+  <div id="main-content" ></div>
 
   <footer>
     <div class="footer">
@@ -131,8 +110,8 @@
             </div>
          </div>
       </footer>
-  <script>
 
+  <script>
     function sayHello() {
       var name = document.getElementById("name").value;
       var message = "<h2>Hello" + " " + name + "!</h2>"
@@ -143,12 +122,8 @@
         .innerHTML = message;
     }
   </script>
-
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/ajax_utils.js"></script>
 <script src="js/script.js"></script>
-
-
 </body>
-
 </html>
