@@ -197,8 +197,10 @@
 
 
 body {
-     color: #666666;
+   
      font-family: 'Poppins', sans-serif;
+     color:black;
+     background-color: rgb(98, 162, 235);
 }
 
 a {
@@ -366,6 +368,229 @@ h3 {
 
 /* catalog end */
 
+
+
+
+/* homepage end */
+ 
+ .bb{
+ background-color: red;
+ }
+ 
+ *{
+     color: black;
+ }
+ .navHeader > a{
+ 
+     text-decoration: none;
+ }
+ 
+ .navbar-brand h1{
+     font-size: 1.3em;
+     margin-top: 0;
+     margin-bottom: 0;
+     font-weight: bold;
+ 
+ justify-self: flex-end;
+ }
+ 
+ 
+ .navbar>.container{
+ justify-content: space-around;
+ }
+ 
+ 
+
+ 
+ #nav-list a{
+     color: black;
+     text-align: center;
+     font-size: 18px;
+ 
+ }
+ 
+ header{
+     border-bottom: 1px solid black;
+ }
+ 
+ #header-nav{
+     background-color: #f5f5f5;
+ }
+ 
+ 
+
+ li a{
+  border-top: 1px black solid;
+ }
+ 
+
+ 
+ .abc{
+     background: url('../images/logo-icon.png');
+     background-size: contain;
+     height: 100px;
+     width: 100px;
+     background-repeat: no-repeat;
+ margin-left: 10px;
+     
+ }
+ 
+ 
+ .custom-toggler .navbar-toggler-icon {
+     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+ }
+ 
+ .custom-toggler.navbar-toggler{
+     border: 1px solid black;
+ }
+ 
+ li a{
+  border-top: 1px black solid;
+ }
+ 
+ #main-content{
+ margin-top: 5px;
+ }
+ #main-carousel{
+     margin-bottom: 20px;
+ }
+ 
+ 
+ 
+ .carousel-inner > .carousel-item > img {
+  
+     height:100%;
+   }
+ 
+   #catalog-tile:hover,#sale-tile:hover,#map-tile:hover{
+    box-shadow: 0 1px 5px 1px #07485B;   
+   }
+ 
+   #catalog-tile{
+    background: url(../css/bb.jpg) no-repeat center;
+    height:400px;
+
+    margin-bottom: 20px;
+}
+
+#sale-tile{
+    background: url(../css/jfjf.jpg) no-repeat center;
+    height:400px;
+    margin-bottom: 20px;
+}
+ 
+ #catalog-tile ,#sale-tile,#map-tile{
+     width: 100%;
+  overflow: hidden;
+  position: relative;
+ }
+ #catalog-tile span,#sale-tile span,#map-tile span{
+     position: absolute;
+     bottom: 0;
+     right: 0;
+     width: 100%;
+     text-align: center;
+     color:aliceblue;
+     opacity: .8;
+     text-transform: uppercase;
+     background-color: black;
+     font-size: 25px;
+ }
+ 
+ 
+ 
+ 
+ .aou{
+     margin-bottom: 10px;
+     border-radius: 50%;
+ }
+ 
+ 
+
+ 
+  
+ .carousel-item h3{
+     display: inline-block;
+ }
+ 
+ .carousel-inner{
+     background-color: #f3ead8;
+ }
+ 
+ .carousel-indicators{
+     margin-bottom: 0px;
+     
+ }
+ 
+ 
+ .omg{
+     text-align: center;
+ 
+ }
+ 
+ .carousel .carousel-item {
+ 
+      min-height: 90px;
+ }
+ .carousel-control-prev, .carousel-control-next {
+      width: 40px;
+      height: 40px;
+      margin-top: -20px;
+      top: 50%;
+      background-color:black ;
+ }
+ 
+ .btn{
+    position: relative;
+    bottom: 40px;
+    background-color: #c8f2ff;
+    width: 200px;
+height: 60px;
+border-radius: 45px;
+cursor: pointer;
+border: none;
+text-transform: uppercase;
+letter-spacing: 2px;
+font-weight: bold;
+box-shadow: 0px 10px 25px;
+transition: all 0.3s ease;
+}
+
+.btn:hover{
+    background-color: #2ceae5;
+    transform: translateY(-7px);
+    color: #fff;
+    box-shadow: 0px 10px 25px;
+}
+
+
+.container{
+    max-width: none;
+}
+
+@media (min-width: 576px) { 
+
+
+}
+
+
+@media (min-width: 768px) { }
+
+@media (min-width: 992px) { 
+    .all{
+        position:relative;
+            
+        top: 40%;
+        left: 40%;
+         }
+}
+
+
+@media (min-width: 1200px) { }
+
+
+
+/* homepage end */
 
 
 /* footer start */
