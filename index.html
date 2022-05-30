@@ -14,65 +14,52 @@
 </head>
 <body>
   <header>
-    <nav id="header-nav" class="navbar navbar-expand-md navbar-light pb-2">
-      <div class="container px-0">
-        <div class="navbar-brand d-flex">
-          <a class="d-none d-lg-block" href="index.html">
+    <nav id="header-nav" class="navbar navbar-expand-md navbar-light  mt-0 pb-2">
+        <div class="container px-0 mt-0">
+            <div class="navbar-brand d-flex">
+                <a class="d-none d-lg-block" href="index.html">
             <div class="abc"></div>
-          </a>
-        </div>
-        <div class="navHeader align-self-center">
-          <a href="index.html">
-            <h1>Bitten Pear</h1>
-          </a>
-        </div>
-
+            </a>
+            </div>
+            <div class="navHeader align-self-center"> 
+                <a href="index.html"><h1>Bitten Pear</h1></a>
+            </div>
+            <div id="alll">
+              <p> Say hello to 
+              <input id="name" type="text">
+              <button onclick="sayHello();">
+              Say it! </button> 
+              </p>
+              </div>
         
+            <button class="navbar-toggler custom-toggler me-5 my-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-collapsion" aria-controls="navbar-collapsion" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
-        <button class="navbar-toggler custom-toggler my-2 " type="button" data-bs-toggle="collapse"
-          data-bs-target="#navbar-collapsion" aria-controls="navbar-collapsion" aria-expanded="false"
-          aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+            <div class="collapse navbar-collapse pb-0" id="navbar-collapsion">
+                <ul class="navbar-nav mx-auto" id="nav-list">
+                    <li class="nav-item mt-2">
+                        <a class="nav-link d-lg-none d-md-none d-sm-block" aria-current="page" href="#go1">
+                            Caption 1
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link d-lg-none d-md-none d-sm-block" href="#go2">
+                            Caption 2
+                        </a>
+                    </li>
+                    <li class="nav-item py-0">
+                        <a class="nav-link d-lg-none d-md-none d-sm-block pb-0" href="#go3">
+                             Caption 3
+                        </a>
+                    </li> <!--The end of li -->
+                </ul> <!--The end of ul -->
+            </div> <!--The end of navbar-collapse -->
+        </div> <!--The end of container -->
+    </nav> <!--The end of nav -->
+</header>
 
-        <div class="collapse navbar-collapse pb-0" id="navbar-collapsion">
-          <ul class="navbar-nav mx-auto" id="nav-list">
-            <li class="nav-item mt-2">
-              <a class="nav-link d-lg-none d-md-none d-sm-block" aria-current="page" href="#go1">
-                Category
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link d-lg-none d-md-none d-sm-block" href="#go2">
-                Sale
-              </a>
-            </li>
-            <li class="nav-item py-0">
-              <a class="nav-link d-lg-none d-md-none d-sm-block pb-0" href="#go3">
-                Caption 3
-              </a>
-            </li>
-            <!--The end of li -->
-          </ul>
-          <!--The end of ul -->
-        </div>
-        <div id="alll" class="all d-md-block d-none">
-          <p>
-            Say hello to
-            <input id="name" type="text">
-            <button onclick="sayHello();">
-              Say it! </button>
-          </p>
-          <div id="content"></div>
-        </div>
-        <!--The end of navbar-collapse -->
-      </div>
-      <!--The end of container -->
-    </nav>
-    <!--The end of nav -->
-  </header>
-
-  <div id="main-content" ></div>
+  <div id="main-content" class="container"></div>
 
   <footer>
     <div class="footer">
