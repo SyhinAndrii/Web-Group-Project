@@ -1,40 +1,40 @@
 {"catalog_items":
     [{  "id":1,
-        "name":"Computer 1",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
-        "price":499.99,
-        "instock":true
+        "name":"ExtraDigital Asus",
+        "description":"Laptop battery number of elements: 6 capacity: 5200 mAh voltage: 11.1 B compatibility: Asus A43, A43B, A43BR, A43BY.",
+        "price":21,
+        "instock":false
     },
     {  "id":2,
-        "name":"Computer 2",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
-        "price":499.99,
+        "name":"PowerPlant Apple MacBook Pro",
+        "description":"Laptop Battery Number of Items: 6 Capacity: 5400 mAh Voltage: 10,8 B Compatibility: Apple MacBook Pro 15 inch.",
+        "price":45,
         "instock":true
     },
     {  "id":3,
-        "name":"Computer 3",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
-        "price":499.99,
-        "instock":true
+        "name":"ExtraDigital HP ProBook",
+        "description":"Laptop Battery Number of Items: 6 Capacity: 5200 mAh Voltage: 11,1 B Compatibility: HP ProBook 4530S (HSTNN-LB2R).",
+        "price":24,
+        "instock":false
     },
     {  "id":4,
-        "name":"Computer 4",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
-        "price":499.99,
+        "name":"PowerPlant Apple MacBook Air",
+        "description":"Laptop Battery Number of Items: 6 Capacity: 4800 mAh Voltage: 7,4 B Compatibility: Apple Macbook Air 13.",
+        "price":51,
         "instock":true
     },
     {  "id":5,
-        "name":"Computer 5",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "name":"Battery 5",
+        "description":" ",
         "price":499.99,
         "instock":true
     },
     {  "id":6,
-        "name":"Computer 6",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "name":"Battery 6",
+        "description":" ",
         "price":499.99,
         "instock":true
     }],
-    "category":{"name":"Computer"}
+    "category":{"name":"Battery"}
 
 }
