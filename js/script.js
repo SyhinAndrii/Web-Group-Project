@@ -144,7 +144,7 @@
       html=insertProperty(html,"inStock","Є в наявності");
     }
     else{
-      html=insertProperty(html,"Немає в наявності");
+      html=insertProperty(html,"inStock","Немає в наявності");
     }
     return html;
   }

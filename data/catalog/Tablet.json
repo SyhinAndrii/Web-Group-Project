@@ -1,0 +1,40 @@
+{"catalog_items":
+    [{  "id":1,
+        "name":"Tablet 1",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "price":499.99,
+        "instock":false
+    },
+    {  "id":2,
+        "name":"Tablet 2",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "price":499.99,
+        "instock":true
+    },
+    {  "id":3,
+        "name":"Tablet 3",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "price":499.99,
+        "instock":false
+    },
+    {  "id":4,
+        "name":"Tablet 4",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "price":499.99,
+        "instock":true
+    },
+    {  "id":5,
+        "name":"Tablet 5",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "price":499.99,
+        "instock":true
+    },
+    {  "id":6,
+        "name":"Tablet 6",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "price":499.99,
+        "instock":true
+    }],
+    "category":{"name":"Tablet"}
+
+}

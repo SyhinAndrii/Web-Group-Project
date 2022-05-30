@@ -10,6 +10,185 @@
  2) font-family: 'Poppins', sans-serif;
  ----------------------------------------*****/
 
+/* homepage start */
+ 
+.bb{
+    background-color: red;
+    }
+    
+    *{
+        color: black;
+    }
+    .navHeader > a{
+    
+        text-decoration: none;
+    }
+    
+    .navbar-brand h1{
+        font-size: 1.3em;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: bold;
+    
+    justify-self: flex-end;
+    }
+    
+    
+    .navbar>.container{
+    justify-content: space-around;
+    }
+    
+    .navbar-toggler{
+        margin-right: 0;
+    }
+    
+   
+    
+    #nav-list a{
+        color: black;
+        text-align: center;
+        font-size: 18px;
+    
+    }
+    
+    header{
+        border-bottom: 1px solid black;
+    }
+    
+    #header-nav{
+        background-color: #f5f5f5;
+    }
+    
+    
+   
+    li a{
+     border-top: 1px black solid;
+    }
+    
+    .alll{
+       margin-right: 0;
+    }
+    
+    .abc{
+        background: url('../images/logo-icon.png');
+        background-size: contain;
+        height: 100px;
+        width: 100px;
+        background-repeat: no-repeat;
+    margin-left: 10px;
+        
+    }
+    
+    
+    .custom-toggler .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    
+    .custom-toggler.navbar-toggler{
+        border: 1px solid black;
+    }
+    
+    li a{
+     border-top: 1px black solid;
+    }
+    
+    #main-content{
+    margin-top: 20px;
+    }
+    #main-carousel{
+        margin-bottom: 20px;
+    }
+    
+    
+    
+    .carousel-inner > .carousel-item > img {
+     
+        height:100%;
+      }
+    
+      #catalog-tile:hover,#sale-tile:hover,#map-tile:hover{
+       box-shadow: 0 1px 5px 1px #07485B;   
+      }
+    
+    #catalog-tile{
+        background: url(../images/le.jpg) no-repeat center;
+        height:400px;
+    
+        margin-bottom: 20px;
+    }
+    
+    #sale-tile{
+        background: url(../images/le.jpg) no-repeat center;
+        height:400px;
+    
+        margin-bottom: 20px;
+    }
+    
+    #catalog-tile ,#sale-tile,#map-tile{
+        width: 100%;
+     overflow: hidden;
+     position: relative;
+    }
+    #catalog-tile span,#sale-tile span,#map-tile span{
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        text-align: center;
+        color:aliceblue;
+        opacity: .8;
+        text-transform: uppercase;
+        background-color: black;
+        font-size: 25px;
+    }
+    
+    
+    
+    
+    .aou{
+        margin-bottom: 10px;
+        border-radius: 50%;
+    }
+    
+    
+   
+    
+     
+    .carousel-item h3{
+        display: inline-block;
+    }
+    
+    .carousel-inner{
+        background-color: #f3ead8;
+    }
+    
+    .carousel-indicators{
+        margin-bottom: 0px;
+        
+    }
+    
+    
+    .omg{
+        text-align: center;
+    
+    }
+    
+    .carousel .carousel-item {
+    
+         min-height: 90px;
+    }
+    .carousel-control-prev, .carousel-control-next {
+         width: 40px;
+         height: 40px;
+         margin-top: -20px;
+         top: 50%;
+         background-color:black ;
+    }
+    
+    
+   
+   /* homepage end */
+
 
  /* categorie start */
 * {
@@ -35,7 +214,6 @@ h5,
 h6 {
      letter-spacing: 0;
      font-weight: normal;
-     /* position: relative; */
      padding: 0 0 10px 0;
      font-weight: normal;
      line-height: normal;
@@ -44,11 +222,12 @@ h6 {
 }
 
 h1 {
-     font-size: 24px;
+     font-size: 35px;
+     letter-spacing: 5px;
 }
 
 h2 {
-     font-size: 22px;
+     font-size: 45px;
 }
 
 h3 {
@@ -115,13 +294,17 @@ h3 {
 }
 
 .margin_bottom2 {
-     margin-bottom: 50px;
+     margin-bottom: 20px;
 }
 /* categories end */
 
 
 
 /* catalog start */
+
+#catalog-categories-title{
+    margin-bottom: 20px;
+}
 .our_catalog{
      margin-top: 50px;
 }
@@ -130,191 +313,59 @@ h3 {
      margin-bottom: 50px;
 }
 
+.our_catalog_box img{
+    margin-top: 30px;
+}
+   
+.card-footer{
+    position: relative;
+}
+
+.price{
+    color: rgb(181, 7, 7);
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+.bi{
+    font-size: 20px;
+    color: rgb(181, 7, 7);
+}
+
+.description {
+    font-size: 15px;
+    font-style: italic;
+    
+}
+.price{
+    margin: 0;
+}
+.inStock{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(67, 65, 65);
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+    background-color: rgb(172, 206, 232);
+}
+.card img{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-header{
+    background-color: cadetblue;
+}
+.card-header h3{
+    font-size: 20px;
+}
+
+
 /* catalog end */
 
-
-
-
-
-
-/* homepage end */
- 
- .bb{
- background-color: red;
- }
- 
- *{
-     color: black;
- }
- .navHeader > a{
- 
-     text-decoration: none;
- }
- 
- .navbar-brand h1{
-     font-size: 1.3em;
-     margin-top: 0;
-     margin-bottom: 0;
-     font-weight: bold;
- 
- justify-self: flex-end;
- }
- 
- 
- .navbar>.container{
- justify-content: space-around;
- }
- 
- 
-
- 
- #nav-list a{
-     color: black;
-     text-align: center;
-     font-size: 18px;
- 
- }
- 
- header{
-     border-bottom: 1px solid black;
- }
- 
- #header-nav{
-     background-color: #f5f5f5;
- }
- 
- 
-
- li a{
-  border-top: 1px black solid;
- }
- 
- .all{
- position: absolute;
- top: 10;
- left: 40;
- justify-content: endf;
- }
- 
- .abc{
-     background: url('../images/logo-icon.png');
-     background-size: contain;
-     height: 100px;
-     width: 100px;
-     background-repeat: no-repeat;
- margin-left: 10px;
-     
- }
- 
- 
- .custom-toggler .navbar-toggler-icon {
-     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
- }
- 
- .custom-toggler.navbar-toggler{
-     border: 1px solid black;
- }
- 
- li a{
-  border-top: 1px black solid;
- }
- 
- #main-content{
- margin-top: 20px;
- }
- #main-carousel{
-     margin-bottom: 20px;
- }
- 
- 
- 
- .carousel-inner > .carousel-item > img {
-  
-     height:100%;
-   }
- 
-   #catalog-tile:hover,#sale-tile:hover,#map-tile:hover{
-    box-shadow: 0 1px 5px 1px #07485B;   
-   }
- 
- #catalog-tile{
-     background: url(../images/le.jpg) no-repeat center;
-     height:400px;
- 
-     margin-bottom: 20px;
- }
- 
- #sale-tile{
-     background: url(../images/le.jpg) no-repeat center;
-     height:400px;
- 
-     margin-bottom: 20px;
- }
- 
- #catalog-tile ,#sale-tile,#map-tile{
-     width: 100%;
-  overflow: hidden;
-  position: relative;
- }
- #catalog-tile span,#sale-tile span,#map-tile span{
-     position: absolute;
-     bottom: 0;
-     right: 0;
-     width: 100%;
-     text-align: center;
-     color:aliceblue;
-     opacity: .8;
-     text-transform: uppercase;
-     background-color: black;
-     font-size: 25px;
- }
- 
- 
- 
- 
- .aou{
-     margin-bottom: 10px;
-     border-radius: 50%;
- }
- 
- 
-
- 
-  
- .carousel-item h3{
-     display: inline-block;
- }
- 
- .carousel-inner{
-     background-color: #f3ead8;
- }
- 
- .carousel-indicators{
-     margin-bottom: 0px;
-     
- }
- 
- 
- .omg{
-     text-align: center;
- 
- }
- 
- .carousel .carousel-item {
- 
-      min-height: 90px;
- }
- .carousel-control-prev, .carousel-control-next {
-      width: 40px;
-      height: 40px;
-      margin-top: -20px;
-      top: 50%;
-      background-color:black ;
- }
- 
- 
-
-/* homepage end */
 
 
 /* footer start */
