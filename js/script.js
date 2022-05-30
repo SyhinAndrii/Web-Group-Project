@@ -10,7 +10,8 @@
   var catalogItemsUrl="data/catalog/";
   var catalogItemsTitleHtml="fragments/catalog-item-title.html";
   var catalogItemHtml="fragments/catalog-item.html";
-
+  var topItemsHtml="fragments/top-catalog-fragments.html";
+  var topItemsUrl="data/catalog"
 
   var homeHtml = "fragments/home-fragment.html";
 
@@ -57,6 +58,7 @@
       catalogItemsUrl+category+".json",
       buildAndShowCatalogItemsHTML);
   }
+
 
   function buildAndShowCategoriesHtml(categories) {
     
