@@ -1,37 +1,37 @@
 {"catalog_items":
     [{  "id":1,
         "name":"Memory 1",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":false
     },
     {  "id":2,
         "name":"Memory 2",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     },
     {  "id":3,
         "name":"Memory 3",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":false
     },
     {  "id":4,
         "name":"Memory 4",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     },
     {  "id":5,
         "name":"Memory 5",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     },
     {  "id":6,
         "name":"Memory 6",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     }],

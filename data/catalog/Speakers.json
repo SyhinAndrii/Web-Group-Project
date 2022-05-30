@@ -1,37 +1,37 @@
 {"catalog_items":
     [{  "id":1,
         "name":"Speakers 1",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     },
     {  "id":2,
         "name":"Speakers 2",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     },
     {  "id":3,
         "name":"Speakers 3",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     },
     {  "id":4,
         "name":"Speakers 4",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     },
     {  "id":5,
         "name":"Speakers 5",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     },
     {  "id":6,
         "name":"Speakers 6",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
+        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":499.99,
         "instock":true
     }],
