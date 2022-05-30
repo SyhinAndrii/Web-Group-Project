@@ -18,8 +18,10 @@
 
 
 body {
-     color: #666666;
+   
      font-family: 'Poppins', sans-serif;
+     color:black;
+     background-color: rgb(98, 162, 235);
 }
 
 a {
@@ -189,12 +191,7 @@ h3 {
   border-top: 1px black solid;
  }
  
- .all{
- position: absolute;
- top: 10;
- left: 40;
- justify-content: endf;
- }
+
  
  .abc{
      background: url('../images/logo-icon.png');
@@ -220,7 +217,7 @@ h3 {
  }
  
  #main-content{
- margin-top: 20px;
+ margin-top: 5px;
  }
  #main-carousel{
      margin-bottom: 20px;
@@ -237,19 +234,18 @@ h3 {
     box-shadow: 0 1px 5px 1px #07485B;   
    }
  
- #catalog-tile{
-     background: url(../images/le.jpg) no-repeat center;
-     height:400px;
- 
-     margin-bottom: 20px;
- }
- 
- #sale-tile{
-     background: url(../images/le.jpg) no-repeat center;
-     height:400px;
- 
-     margin-bottom: 20px;
- }
+   #catalog-tile{
+    background: url(../css/bb.jpg) no-repeat center;
+    height:400px;
+
+    margin-bottom: 20px;
+}
+
+#sale-tile{
+    background: url(../css/jfjf.jpg) no-repeat center;
+    height:400px;
+    margin-bottom: 20px;
+}
  
  #catalog-tile ,#sale-tile,#map-tile{
      width: 100%;
@@ -312,7 +308,55 @@ h3 {
       background-color:black ;
  }
  
- 
+ .btn{
+    position: relative;
+    bottom: 40px;
+    background-color: #c8f2ff;
+    width: 200px;
+height: 60px;
+border-radius: 45px;
+cursor: pointer;
+border: none;
+text-transform: uppercase;
+letter-spacing: 2px;
+font-weight: bold;
+box-shadow: 0px 10px 25px;
+transition: all 0.3s ease;
+}
+
+.btn:hover{
+    background-color: #2ceae5;
+    transform: translateY(-7px);
+    color: #fff;
+    box-shadow: 0px 10px 25px;
+}
+
+
+.container{
+    max-width: none;
+}
+
+@media (min-width: 576px) { 
+
+
+}
+
+
+@media (min-width: 768px) { }
+
+@media (min-width: 992px) { 
+    .all{
+        position:relative;
+            
+        top: 40%;
+        left: 40%;
+         }
+}
+
+
+@media (min-width: 1200px) { }
+
+
 
 /* homepage end */
 
