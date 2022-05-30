@@ -24,13 +24,12 @@
         text-decoration: none;
     }
     
-    .navbar-brand h1{
-        font-size: 1.3em;
-        margin-top: 0;
-        margin-bottom: 0;
+    .navHeader h1{
+        position: relative;
+        top: 7px;
+        left: 25px;
+        font-size:50px;
         font-weight: bold;
-    
-    justify-self: flex-end;
     }
     
     
@@ -59,7 +58,7 @@
     }
     
     #header-nav{
-        background-color: #f5f5f5;
+        background-color: #e6dfdf;
     }
     
     
@@ -72,20 +71,96 @@
         position:absolute;
         right:  50px;
         font-size: 22px;
-        top:40px
+        top:60px
         }
     
+@media(max-width: 767px){
+
+
+    
     .abc{
+       
+        position: relative;
+        top: 0px;
+        left: 25px;
         background: url('../images/logo-icon.png');
         background-size: contain;
         height: 100px;
         width: 100px;
         background-repeat: no-repeat;
-    margin-left: 10px;
-        
+        margin-left: 10px;
+    }
+
+    .btn{
+        position: relative;
+     top: 10px;
+        background-color: #c8f2ff;
+        width: 150px;
+    height: 50px;
+    border-radius: 45px;
+    cursor: pointer;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    box-shadow: 0px 10px 25px;
+    transition: all 0.3s ease;
+    }
+
+}
+
+@media(min-width: 768px)
+{
+
+
+ #sale-tile{
+        background: url(../images/jfjf1.jpg) no-repeat center;
+    }
+
+    .navHeader h1{
+        position: relative;
+        top: 0px;
+        left: 25px;
+        font-size:50px;
+        font-weight: bold;
     }
     
+    .abc{ 
+        position: relative;
+        top: 15px;
+        left: 25px;
+        background: url('../images/logo-icon.png');
+        background-size: contain;
+        height: 140px;
+        width: 140px;
+        background-repeat: no-repeat;
+        margin-left: 10px;
+    }
+ 
     
+.btn{
+    position: relative;
+ bottom:10px;
+    background-color: #c8f2ff;
+    width: 200px;
+height: 60px;
+border-radius: 45px;
+cursor: pointer;
+border: none;
+text-transform: uppercase;
+letter-spacing: 2px;
+font-weight: bold;
+box-shadow: 0px 10px 25px;
+transition: all 0.3s ease;
+}
+
+
+}
+
+.omg h1{
+    padding-bottom: 0px;
+font-size: 50px;
+}
     .custom-toggler .navbar-toggler-icon {
         background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
     }
@@ -195,21 +270,7 @@
     }
     
    
-    .btn{
-        position: relative;
-        bottom: 40px;
-        background-color: #c8f2ff;
-        width: 200px;
-    height: 60px;
-    border-radius: 45px;
-    cursor: pointer;
-    border: none;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-weight: bold;
-    box-shadow: 0px 10px 25px;
-    transition: all 0.3s ease;
-    }
+  
     
     .btn:hover{
         background-color: #2ceae5;
@@ -232,7 +293,7 @@ body {
    
      font-family: 'Poppins', sans-serif;
      color:black;
-     background-color: rgb(98, 162, 235);
+     background-color: white;
 }
 
 a {
