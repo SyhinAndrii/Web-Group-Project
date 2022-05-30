@@ -1,40 +1,40 @@
 {"catalog_items":
     [{  "id":1,
-        "name":"Computer 1",
+        "name":"Harddisk 1",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
         "price":499.99,
         "instock":true
     },
     {  "id":2,
-        "name":"Computer 2",
+        "name":"Harddisk 2",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
         "price":499.99,
         "instock":true
     },
     {  "id":3,
-        "name":"Computer 3",
+        "name":"Harddisk 3",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
         "price":499.99,
         "instock":true
     },
     {  "id":4,
-        "name":"Computer 4",
+        "name":"Harddisk 4",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
         "price":499.99,
         "instock":true
     },
     {  "id":5,
-        "name":"Computer 5",
+        "name":"Harddisk 5",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
         "price":499.99,
         "instock":true
     },
     {  "id":6,
-        "name":"Computer 6",
+        "name":"Harddisk 6",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas?",
         "price":499.99,
         "instock":true
     }],
-    "category":{"name":"Computer"}
+    "category":{"name":"Harddisk"}
 
 }

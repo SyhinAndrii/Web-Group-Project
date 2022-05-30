@@ -24,17 +24,15 @@
         "instock":true
     },
     {  "id":5,
-        "name":"Battery 5",
-        "description":" ",
-        "price":499.99,
+        "name":"PowerPlant ASUS",
+        "description":"Laptop battery number of elements: 6 capacity: 6260 mAh voltage: 11.1 B compatibility: Asus N750, N750J, N750JK, N750JV Series, N750Y47JK-SL, N750Y47JV-SL.",
+        "price":108,
         "instock":true
     },
     {  "id":6,
-        "name":"Battery 6",
-        "description":" ",
-        "price":499.99,
+        "name":"PowerPlant ASUS M50",
+        "description":"Laptop battery Number of cells: 6 Capacity: 5200 mAh Voltage: 11,1 B Compatibility: ASUS F2 F2F F2Hf F2J F2Je F3.",
+        "price":36,
         "instock":true
     }],
     "category":{"name":"Battery"}
-
-}
