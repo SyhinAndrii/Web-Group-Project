@@ -219,6 +219,12 @@ li a {
 
 @media(max-width: 767px) {
 
+
+.navHeader h1{
+    margin-left: 15px;
+    letter-spacing: 0px;
+}
+
     .btn {
         position: relative;
         top: 10px;
