@@ -7,7 +7,7 @@
     },
     {  "id":2,
         "name":"PowerPlant Apple MacBook Pro",
-        "description":"Laptop Battery Number of Items: 6 Capacity: 5400 mAh Voltage: 10,8 B Compatibility: Apple MacBook Pro 15 inch.",
+        "description":"Laptop Battery Number of Items: 6 Capacity: 5400 mAh Voltage: 10,8 B Compatibility: Apple MacBook Pro 15 inch Compatibility: HP ProBook.",
         "price":45,
         "instock":true
     },
@@ -19,7 +19,7 @@
     },
     {  "id":4,
         "name":"PowerPlant Apple MacBook Air",
-        "description":"Laptop Battery Number of Items: 6 Capacity: 4800 mAh Voltage: 7,4 B Compatibility: Apple Macbook Air 13.",
+        "description":"Laptop Battery Number of Items: 6 Capacity: 4800 mAh Voltage: 7,4 B Compatibility: Number of Items: 6 Apple Macbook Air 13.",
         "price":51,
         "instock":true
     },
@@ -31,7 +31,7 @@
     },
     {  "id":6,
         "name":"PowerPlant ASUS M50",
-        "description":"Laptop battery Number of cells: 6 Capacity: 5200 mAh Voltage: 11,1 B Compatibility: ASUS F2 F2F F2Hf F2J F2Je F3.",
+        "description":"Laptop battery Number of cells: 6 Capacity: 5200 mAh Voltage: 11,1 B compatibility: voltage Asus Compatibility Asus N750: ASUS F2Series N750Y47JK-SL F2F F2Hf F2J F2Je F3.",
         "price":36,
         "instock":false
     }],
