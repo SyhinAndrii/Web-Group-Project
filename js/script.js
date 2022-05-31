@@ -1,3 +1,35 @@
+function sayHello() {
+  var name = document.getElementById("name").value;
+  var message = "<h2>Hello" + " " + name + "!</h2>"
+
+
+  document
+      .getElementById("alll")
+      .innerHTML = message;
+}
+
+
+
+
+document.addEventListener("DOMContentLoaded",
+function(){
+const menuToggle=document.getElementById('navbar-collapsion');
+const bsCollapse =new bootstrap.Collapse(menuToggle,{toggle:false});
+
+document.querySelector(".navbar-toggler")
+.addEventListener("blur",
+function(event){
+  let screenWidth=window.innerWidth;
+  if(screenWidth<768)
+  {
+    bsCollapse.toggle();
+  }
+});
+});
+
+
+
+
 
 
 (function (global) {

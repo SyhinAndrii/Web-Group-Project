@@ -60,7 +60,7 @@
                 <div class="d-none d-lg-block" id="alll">
                     <p> 
                         <input placeholder="  Input your name" id="name" type="text">
-                        <button onclick="sayHello();">
+                        <button class="button button-1" type="button" onclick="sayHello();">
                             Press it! </button>
                     </p>
                 </div>
@@ -118,20 +118,10 @@
         </div>
     </footer>
 
-    <script>
-        function sayHello() {
-            var name = document.getElementById("name").value;
-            var message = "<h2>Hello" + " " + name + "!</h2>"
-
-
-            document
-                .getElementById("alll")
-                .innerHTML = message;
-        }
-    </script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/ajax_utils.js"></script>
     <script src="js/script.js"></script>
+    
 </body>
 
 </html>
