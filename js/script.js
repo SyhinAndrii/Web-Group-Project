@@ -4,7 +4,7 @@ function sayHello() {
 
 
   document
-      .getElementById("alll")
+      .getElementById("Hello")
       .innerHTML = message;
 }
 
