@@ -1,39 +1,39 @@
 {"catalog_items":
     [{  "id":1,
-        "name":"Memory 1",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
-        "instock":false
+        "name":"Crucial 16 GB",
+        "description":"Crucial 16 GB (2x8GB) DDR4 3200 MHz Ballistix Black (BL2K8G32C16U4B) is a set of RAM designed specifically for use in high-performance gaming and work computers.",
+        "price":86,
+        "instock":true
     },
     {  "id":2,
-        "name":"Memory 2",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "name":"Crucial 8 GB",
+        "description":"Desktop memory 8 GB DDR4 3600 MHz standard timings: CL16-18-18-38 operating voltage: 1.35 B.",
+        "price":51,
         "instock":true
     },
     {  "id":3,
-        "name":"Memory 3",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
-        "instock":false
-    },
-    {  "id":4,
-        "name":"Memory 4",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "name":"Kingston 16 GB",
+        "description":"Laptop memory 16 GB DDR4 3200 MHz standard timings: CL22-22-22 operating voltage: 1.2 B.",
+        "price":89,
         "instock":true
     },
+    {  "id":4,
+        "name":"G.Skill 16 GB",
+        "description":"Choosing for yourself G.Skill 16 GB (2x8GB) DDR4 3200 MHz Aegis (F4-3200C16D-16GIS) it is important to understand that its capacity is divided into two bars of 8 GB.",
+        "price":62,
+        "instock":false
+    },
     {  "id":5,
-        "name":"Memory 5",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "name":"Kingston FURY 32 GB",
+        "description":"Desktop memory 32 GB DDR4 3600 MHz standard timings: CL18 operating voltage: 1.35 B.",
+        "price":169,
         "instock":true
     },
     {  "id":6,
-        "name":"Memory 6",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
-        "instock":true
+        "name":"Samsung 16 GB",
+        "description":"In the power of Samsung 16 GB DDR4 2666 MHz RAM (K4A8G085WC-BCTD) are 2666 MHz effective frequency and CL19 timings.",
+        "price":34,
+        "instock":false
     }],
     "category":{"name":"Memory"}
 
