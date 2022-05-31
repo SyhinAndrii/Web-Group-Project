@@ -33,6 +33,6 @@
         "name":"PowerPlant ASUS M50",
         "description":"Laptop battery Number of cells: 6 Capacity: 5200 mAh Voltage: 11,1 B Compatibility: ASUS F2 F2F F2Hf F2J F2Je F3.",
         "price":36,
-        "instock":true
+        "instock":false
     }],
         "category":{"name":"Battery"}}

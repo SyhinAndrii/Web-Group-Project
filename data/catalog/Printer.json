@@ -2,37 +2,37 @@
     [{  "id":1,
         "name":"Printer 1",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":469,
         "instock":false
     },
     {  "id":2,
         "name":"Printer 2",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":143,
         "instock":true
     },
     {  "id":3,
         "name":"Printer 3",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":307,
         "instock":false
     },
     {  "id":4,
         "name":"Printer 4",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":290,
         "instock":true
     },
     {  "id":5,
         "name":"Printer 5",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":243,
         "instock":true
     },
     {  "id":6,
         "name":"Printer 6",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":449,
         "instock":true
     }],
     "category":{"name":"Printer"}

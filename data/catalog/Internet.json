@@ -2,37 +2,37 @@
     [{  "id":1,
         "name":"Internet 1",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":101,
         "instock":true
     },
     {  "id":2,
         "name":"Internet 2",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":122,
         "instock":true
     },
     {  "id":3,
         "name":"Internet 3",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":149,
         "instock":true
     },
     {  "id":4,
         "name":"Internet 4",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":130,
         "instock":true
     },
     {  "id":5,
         "name":"Internet 5",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":101,
         "instock":true
     },
     {  "id":6,
         "name":"Internet 6",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":50,
         "instock":true
     }],
     "category":{"name":"Internet"}

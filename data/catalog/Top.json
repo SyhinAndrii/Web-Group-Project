@@ -2,7 +2,7 @@
     [{  "id":1,
         "name":"Tablet 1",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":199.89,
         "instock":false
     },
     {  "id":2,
@@ -14,25 +14,25 @@
     {  "id":3,
         "name":"Printer 3",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":289.99,
         "instock":false
     },
     {  "id":4,
         "name":"Speakers 4",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":159.99,
         "instock":true
     },
     {  "id":5,
         "name":"Tablet 5",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":639.99,
         "instock":true
     },
     {  "id":6,
         "name":"Internet 6",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "price":99.99,
         "instock":true
     }],
     "category":{"name":"Top"}
