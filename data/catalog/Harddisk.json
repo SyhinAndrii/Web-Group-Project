@@ -26,8 +26,7 @@
     {  "id":5,
         "name":"Harddisk 5",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":144
-,
+        "price":144,
         "instock":true
     },
     {  "id":6,
