@@ -374,6 +374,14 @@ h3 {
 
 /* catalog start */
 
+.card{
+    height: 630px;
+}
+.card .description{
+    height: 200px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
 #catalog-categories-title {
     margin-bottom: 20px;
 }
