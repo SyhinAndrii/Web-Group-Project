@@ -1,36 +1,36 @@
 {"catalog_items":
     [{  "id":1,
-        "name":"Harddisk 1",
+        "name":"Verbatim Store",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":93,
         "instock":true
     },
     {  "id":2,
-        "name":"Harddisk 2",
+        "name":"Toshiba P300",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":77,
         "instock":true
     },
     {  "id":3,
-        "name":"Harddisk 3",
+        "name":"Seagate IronWolf",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":140,
         "instock":true
     },
     {  "id":4,
-        "name":"Harddisk 4",
+        "name":"Toshiba Canvio Basics",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":53,
         "instock":true
     },
     {  "id":5,
-        "name":"Harddisk 5",
+        "name":"Seagate BarraCuda",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":144,
         "instock":true
     },
     {  "id":6,
-        "name":"Harddisk 6",
+        "name":"Western Digital",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":65,
         "instock":true
