@@ -13,8 +13,8 @@ function sayHello() {
 
 document.addEventListener("DOMContentLoaded",
 function(){
-const menuToggle=document.getElementById('navbar-collapsion');
-const bsCollapse =new bootstrap.Collapse(menuToggle,{toggle:false});
+const menuToggle = document.getElementById('navbar-collapsion');
+const bsCollapse = new bootstrap.Collapse(menuToggle,{toggle:false});
 
 document.querySelector(".navbar-toggler")
 .addEventListener("blur",
