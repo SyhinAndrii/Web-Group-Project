@@ -1,36 +1,36 @@
 {"catalog_items":
     [{  "id":1,
-        "name":"Internet 1",
+        "name":"Western Digital",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":101,
         "instock":true
     },
     {  "id":2,
-        "name":"Internet 2",
+        "name":"TP-LINK Archer C50",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":122,
         "instock":true
     },
     {  "id":3,
-        "name":"Internet 3",
+        "name":"TP-LINK Archer AX53",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":149,
         "instock":true
     },
     {  "id":4,
-        "name":"Internet 4",
+        "name":"TP-LINK Archer C80",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":130,
         "instock":true
     },
     {  "id":5,
-        "name":"Internet 5",
+        "name":"Mercusys MR1200G",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":101,
         "instock":true
     },
     {  "id":6,
-        "name":"Internet 6",
+        "name":"TP-LINK Archer AX73",
         "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
         "price":50,
         "instock":true
