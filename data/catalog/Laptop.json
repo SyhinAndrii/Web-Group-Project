@@ -1,38 +1,38 @@
 {"catalog_items":
     [{  "id":1,
-        "name":"Laptop 1",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "name":"Vinga Iron",
+        "description":"Laptop Classic 14 IPS 1920x1080 Intel Pentium N5030 RAM: 8 GB Intel UHD Graphics 605 SSD: 256 GB 1.38 kg OS: DOS color: gray.",
+        "price":460,
         "instock":false
     },
     {  "id":2,
-        "name":"Laptop 2",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "name":"Apple MacBook Air 13",
+        "description":"Apple MacBook Air 13 Late 2020 is not an ordinary update of the popular compact and affordable laptop, but a real new era of Apple laptops. The laptop processor was SoC (System-on-a-Chip) Apple M1, which is based on ARM-architecture in smartphones).",
+        "price":999,
         "instock":true
     },
     {  "id":3,
-        "name":"Laptop 3",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
-        "instock":false
+        "name":"Apple MacBook Pro 14",
+        "description":"Apple MacBook Pro 14 2021 - a novelty in the line of laptops of the company, which received an updated design and hardware. The new 14.2-inch Apple MacBook Pro 14 2021 Liquid Retina XDR display has almost no frame, so FullHD camera is installed in a clear cut.",
+        "price":1999,
+        "instock":true
     },
     {  "id":4,
-        "name":"Laptop 4",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "name":"ASUS TUF Gaming F15",
+        "description":"Laptop Classic 15.6 IPS 1920x1080 Intel Core i5-10300H 2.5 GHz RAM: 8 GB NVIDIA GeForce GTX 1650, 4 GB SSD: 512 GB 2.3 kg OS: DOS color: black.",
+        "price":760,
         "instock":true
     },
     {  "id":5,
-        "name":"Laptop 5",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
-        "instock":true
+        "name":"Lenovo Legion 5",
+        "description":"Laptop Classic 15.6 IPS 1920x1080 AMD Ryzen 7 5800H 3.2 GHz RAM: 16 GB NVIDIA GeForce RTX 3060 6GB GDDR6 130W SSD: 1000 GB 2.4 kg OS: DOS color: black.",
+        "price":1270,
+        "instock":false
     },
     {  "id":6,
-        "name":"Laptop 6",
-        "description":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis nihil incidunt obcaecati adipisci provident, similique animi consequatur ab minus non! Id aspernatur nam obcaecati voluptatibus suscipit neque esse, minus voluptas.",
-        "price":499.99,
+        "name":"HP Pavilion Gaming 15",
+        "description":"HP Pavilion Gaming 15 is a mid-format gaming notebook aimed at users who need a powerful and portable solution. The model is made in an updated design, corresponding to the new line and is strict and elegant.",
+        "price":899,
         "instock":true
     }],
     "category":{"name":"Laptop"}
