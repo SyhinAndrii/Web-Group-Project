@@ -191,7 +191,7 @@ font-size: 50px;
     
     @media (min-width: 768px) and (max-width: 991px) { 
         #sale-tile{
-            background: url(../images/d.jpg) no-repeat center;
+            background: url(../images/d1.jpg) no-repeat center;
             height:400px;
      background-size: auto;
             margin-bottom: 20px;
@@ -202,7 +202,7 @@ font-size: 50px;
 
      @media (max-width: 575px) { 
         #sale-tile{
-            background: url(../images/d.jpg) no-repeat center;
+            background: url(../images/d1.jpg) no-repeat center;
             height:400px;
      background-size: auto;
             margin-bottom: 20px;
