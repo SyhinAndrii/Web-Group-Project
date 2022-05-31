@@ -51,9 +51,7 @@ li a {
 
 
 .logo-photo {
-    position: relative;
-    top: 15px;
-    left: 25px;
+    margin-top: 14px;
     background: url('../images/logo-icon.png');
     background-size: contain;
     height: 140px;
